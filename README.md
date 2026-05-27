@@ -101,7 +101,7 @@ python main.py
 
 This project is associated with the IEEE ICACCS 2024 conference paper:
 
-📄 [View Research Paper]([PASTE_IEEE_LINK_HERE](https://ieeexplore.ieee.org/document/10716918))
+📄 [View Research Paper](https://ieeexplore.ieee.org/document/10716918))
 
 ---
 
